@@ -1,0 +1,17 @@
+Pregunta 1. ¿Qué es Nest.js?
+A. Un framework para el desarrollo de aplicaciones web móviles.
+B. Un framework para el desarrollo de aplicaciones Node.js en el lado del servidor.
+C. Una biblioteca de JavaScript para crear interfaces gráficas de usuario.
+Answer B
+
+Pregunta 2. ¿Cuál es la principal característica de Nest.js?
+A. Su simplicidad y facilidad de uso.
+B. Su arquitectura modular y orientada a objetos.
+C. Su alto rendimiento y escalabilidad.
+Answer B
+
+Pregunta 3. ¿Qué ventajas ofrece Nest.js sobre otros frameworks Node.js?
+A. Permite crear aplicaciones más maintainables y testables.
+B. Ofrece una amplia gama de funcionalidades integradas, como inyección de dependencias, validación de datos y manejo de excepciones.
+C. Tiene una gran comunidad y una gran cantidad de recursos disponibles.
+Answer B
