@@ -1,0 +1,22 @@
+Pregunta 1: ¿Qué es Nest.js?
+A. Nest.js es un marco de trabajo para construir aplicaciones web escalables en Node.js.
+B. Es una plataforma que proporciona una estructura organizada y modular para el desarrollo de aplicaciones backend.
+C. Ofrece una sintaxis similar a Angular y está construido sobre Express.js.
+ANSWER: A
+
+
+Pregunta 2: ¿Cuál es la diferencia entre un controlador y un servicio en Nest.js?
+A. Los controladores exponen puntos finales de la API, mientras que los servicios encapsulan la lógica de la aplicación.
+B. Los controladores están asociados a rutas específicas de la API, mientras que los servicios son clases reutilizables.
+C. Un controlador maneja las solicitudes HTTP y devuelve respuestas, mientras que un servicio contiene la lógica de negocio.
+ANSWER: C
+
+
+Pregunta 3: ¿Cómo se manejan las excepciones en Nest.js?
+A. Las excepciones pueden ser manejadas globalmente mediante filtros de excepciones.
+B. Cada controlador puede definir su propio manejo de excepciones utilizando el decorador @Catch().
+C. Nest.js proporciona middleware integrado para manejar errores de validación, simplificando el proceso de validación y manejo de errores.
+ANSWER: A
+
+
+
