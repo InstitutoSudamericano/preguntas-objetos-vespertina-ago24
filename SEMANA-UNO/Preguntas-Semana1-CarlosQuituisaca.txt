@@ -1,3 +1,8 @@
+ ¿Cuál es la diferencia entre Node.js y JavaScript?
+
+a) Node.js es un lenguaje de programación y JavaScript es un framework.
+b) Node.js es un framework y JavaScript es un lenguaje de scripting.
+c) Node.js es un entorno de ejecución que permite ejecutar código JavaScript en el lado del servidor, mientras que JavaScript es un lenguaje de scripting del lado del cliente.
 d) Node.js y JavaScript son lo mismo.
 
 ANSWER: C
