@@ -1,0 +1,15 @@
+1,- ¿Cuál es el archivo principal que actúa como punto de entrada de una aplicación NestJS?
+A. app.module.ts
+B. main.js
+C. main.ts
+ANSWER: C. main.ts
+2.- ¿Cuál es la función principal de los controladores en un proyecto NestJS?
+A. Manejar la lógica de negocio de la aplicación.
+B. Definir los modelos de datos de la aplicación.
+C. Gestionar las solicitudes HTTP entrantes y retornar respuestas.
+ANSWER: C. Gestionar las solicitudes HTTP entrantes y retornar respuestas.
+4.- ¿Qué carpeta se genera automáticamente al construir una aplicación NestJS y almacena el código JavaScript transpilado para producción?
+A. /src
+B. /dist
+C. /test
+ANSWER: B. /dist
