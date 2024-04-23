@@ -1,0 +1,15 @@
+1.	¿Por qué es importante seguir una estructura organizada en una aplicación NestJS?
+a.	Están pensados para proporcionar una capa de acceso a los datos que necesitan las aplicaciones para funcionar.
+b.	Una estructura organizada facilita la comprensión, mantenimiento y escalabilidad de la aplicación NestJS. Ayuda a separar las responsabilidades, mejorar el modularidad y facilitar la colaboración entre desarrolladores.
+c.	Los módulos sirven para agrupar elementos, de modo que una aplicación podrá tener varios módulos con clases altamente relacionadas entre sí.
+ANSWER: B
+2.	Describe la estructura típica de un controlador en NestJS.
+a.	Un controlador en NestJS es una clase decorada con @Controller que contiene métodos decorados con verbos HTTP como @Get, @Post, etc. Estos métodos manejan las solicitudes HTTP y devuelven respuestas.
+b.	Nest es muy conveniente para contener todas tus necesidades.
+c.	proporciona una capa de abstracción sobre Node, lo que significa que ahora puede aprovechar las características de Node así como exponer APIs sobrealimentadas para un mejor rendimiento y eficiencia.
+ANSWER: A
+3.	¿Cuál es el objetivo del directorio providers en NestJS y qué tipo de clases se pueden encontrar allí?
+a.	contiene clases que pueden ser inyectadas por el mecanismo de inyección de dependencias de NestJS. Esto incluye servicios, controladores, repositorios, etc.
+b.	generalmente contiene clases de servicio que encapsulan la lógica de negocio de la aplicación. Estos servicios pueden ser inyectados en controladores u otros servicios que los necesiten.
+c.	es el módulo raíz de la aplicación NestJS. Define los controladores, servicios y otros módulos utilizados en la aplicación.
+ANSWER: A
