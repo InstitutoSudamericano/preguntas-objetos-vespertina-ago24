@@ -1,0 +1,20 @@
+
+¡Entendido! Aquí te presento nuevas preguntas y respuestas para el tema de NestJS:
+
+1.- ¿Qué decorador se utiliza para definir un endpoint HTTP en un controlador NestJS?
+A. @Get()
+B. @Endpoint()
+C. @Route()
+ANSWER: A. @Get()
+
+2.- ¿Cuál es el propósito del archivo app.module.ts en una aplicación NestJS?
+A. Definir los modelos de datos.
+B. Configurar los módulos y proveedores de la aplicación.
+C. Gestionar las rutas de la aplicación.
+ANSWER: B. Configurar los módulos y proveedores de la aplicación.
+
+3.- ¿Cómo se realiza la inyección de dependencias en los servicios de NestJS?
+A. Utilizando el decorador @Injectable()
+B. A través de la palabra clave "new"
+C. Con el decorador @Service()
+ANSWER: A. Utilizando el decorador @Injectable()
