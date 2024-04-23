@@ -1,0 +1,17 @@
+Pregunta1. ¿Cuál de los siguientes elementos NO forma parte de la estructura base de un módulo en NestJS?
+A. Controlador
+B. Proveedor
+C. Decorador 
+Answer C
+
+Pregunta2. ¿Cuál es la carpeta principal que contiene los archivos de código de una aplicación NestJS?
+A. src
+B. lib
+C. node_modules
+Answer A
+
+Pregunta3. ¿Qué patrón de diseño arquitectónico utiliza NestJS para organizar el código de una aplicación?
+A. Patrón MVC
+B. Patrón MVVM
+C. Patrón Microservicios
+Answer A 
