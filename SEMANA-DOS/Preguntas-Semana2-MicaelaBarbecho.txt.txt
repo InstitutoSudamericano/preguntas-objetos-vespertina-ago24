@@ -1,0 +1,15 @@
+1.	¿Cuál es la importancia del archivo `main?ts ` en una aplicación NestJS?
+a.	El archivo `main?ts ` es el punto de entrada de una aplicación NestJS. Aquí se crea una instancia de la aplicación NestJS y se configuran las opciones de arranque, como los puertos en los que escuchar las solicitudes y la configuración del módulo raíz.
+b.	Nest. js utiliza TypeScript para la comprobación de tipos y proporciona una arquitectura de software.
+c.	Este ofrece una estructura donde es posible crear apps robustas, escalables y confiables.
+ANSWER: A
+2.	¿Cuál es el propósito de los servicios en una aplicación NestJS y cómo se relacionan con la estructura general de la aplicación?
+a.	Los servicios en NestJS contienen la lógica empresarial de la aplicación y se utilizan para realizar tareas específicas, como, por ejemplo: interactuar con una base de datos, realizar cálculos, etc. Se relacionan con la estructura general de la aplicación al separar la lógica empresarial de la capa del controlador y facilitar la reutilización y el modularidad del código. 
+b.	La estructura de datos que administra la información y recibe información del controlador. Vista: la representación de la información.
+c.	Este código se complica con JavaScript y se puede ejecutar sin problemas en cualquier plataforma, no es obligatorio para desarrollar una aplicación angular pero sí recomendable.
+ANSWER: A
+3.	Explique la importancia del directorio `src` en un proyecto NestJS y mencione qué tipos de archivos y carpetas se suelen encontrar dentro de él.
+a.	La estructura del directorio` src ` proporciona una organización clara y modular del código fuente de la aplicación NestJS, lo que facilita su mantenimiento, escalabilidad y colaboración entre desarrolladores.
+b.	Extiende HTML, proporcionando directrices que añaden funcionalidad a tu margen de beneficio y te permite crear plantillas dinámicas poderosas.
+c.	Nest proporciona una capa de abstracción sobre Node, lo que significa que ahora puede aprovechar las características de Node.
+ANSWER: A
