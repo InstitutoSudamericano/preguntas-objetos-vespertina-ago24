@@ -1,0 +1,20 @@
+BANCO DE PREGUNTAS ACERCA "ESTRUCTURA DE NESJS":
+
+¿Cuál es el propósito principal de los módulos en NestJS?[# DE LA SEMANA: 2 ]
+
+A. Organizar y modularizar el código de la aplicación. 
+B. Gestionar la conexión a la base de datos. 
+C. Definir el diseño visual de la interfaz de usuario.
+ANSWER:  A
+
+¿Qué archivo representa el módulo principal de una aplicación NestJS de manera convencional?
+A. `index.js` 
+B. `app.module.ts` 
+C. `main.ts`.
+ANSWER:  B
+
+¿Cómo se comunican los módulos entre sí en NestJS?
+A. A través de correos electrónicos. 
+B. Importando y exportando componentes necesarios. 
+C. Utilizando un sistema de mensajería interno en la aplicación.
+ANSWER:  B
