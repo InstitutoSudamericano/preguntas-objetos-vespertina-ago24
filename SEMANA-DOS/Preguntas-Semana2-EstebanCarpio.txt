@@ -13,3 +13,5 @@ A. /src
 B. /dist
 C. /test
 ANSWER: B. /dist
+
+Video en youtube: https://youtu.be/CmibeO8nEs8
