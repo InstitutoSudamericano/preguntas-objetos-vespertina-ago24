@@ -1,0 +1,20 @@
+PREGUNTA 1
+¿Cuál es el propósito principal del módulo en Nest.js?
+A.-Dividir la aplicación en áreas lógicas y reutilizables.
+B.-Definir el esquema de la base de datos.
+C.-Gestionar las solicitudes HTTP entrantes.
+ANSWER: A
+
+PREGUNTA 2
+¿Qué es un controlador en Nest.js?
+A.-Una clase que define cómo responder a una solicitud HTTP específica.
+B.-Un componente que se encarga de interactuar con la base de datos.
+C.-Un módulo que encapsula la lógica de negocio de la aplicación.
+ANSWER: A
+
+PREGUNTA 3
+¿Cuál es la función principal del decorador @Injectable() en Nest.js?
+A.-Marcar una clase como un componente que puede ser inyectado en otras clases.
+B.-Definir las rutas de la API REST.
+C.-Validar los datos de entrada de una solicitud HTTP.
+ANSWER: A
