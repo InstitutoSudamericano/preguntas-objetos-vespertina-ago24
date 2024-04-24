@@ -1,0 +1,20 @@
+1. ¿Qué es un proveedor en NestJS?
+A. Un proveedor es cualquier clase que se pueda inyectar en otros componentes a través de un decorador @Injectable().
+B. Un proveedor es una función de middleware que se usa para manejar solicitudes HTTP.
+C. Un proveedor es un componente que se utiliza para crear controladores en NestJS.
+
+ANSWER: A. Un proveedor es cualquier clase que se pueda inyectar en otros componentes a través de un decorador @Injectable().
+
+2. ¿Cuál es el propósito principal de los proveedores en NestJS?
+A. Proporcionar servicios o lógica compartida entre diferentes partes de una aplicación.
+B. Servir como una interfaz para manejar bases de datos en NestJS.
+C. Permitir que los controladores se comuniquen directamente entre sí.
+
+ANSWER: A. Proporcionar servicios o lógica compartida entre diferentes partes de una aplicación.
+
+3. ¿Cómo se registran los proveedores en NestJS?
+A. Los proveedores se registran usando el decorador @Module() en los controladores.
+B. Los proveedores se registran en los módulos usando la propiedad providers dentro de la clase del módulo.
+C. Los proveedores se registran directamente en el archivo de configuración principal de la aplicación.
+
+ANSWER: B. Los proveedores se registran en los módulos usando la propiedad providers dentro de la clase del módulo.
