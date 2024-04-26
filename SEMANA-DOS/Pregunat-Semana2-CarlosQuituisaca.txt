@@ -1,0 +1,20 @@
+¿Qué es un guardia (guard) en NestJS?
+A) Un componente para manejar la comunicación con una base de datos.
+B) Un servicio para gestionar la autenticación y autorización.
+C) Una función para definir rutas en una aplicación.
+D) Una clase que encapsula un controlador.
+Answer: B
+
+¿Cómo se define una ruta HTTP en NestJS?
+A) Mediante el uso de un servicio.
+B) Utilizando únicamente funciones de Node.js.
+C) Dentro de un módulo usando un controlador.
+D) No es posible definir rutas HTTP en NestJS.
+Answer: C
+
+¿Cómo se realiza la inyección de dependencias en NestJS?
+A) Mediante el uso de anotaciones específicas en el código.
+B) Utilizando únicamente funciones de JavaScript.
+C) A través de una base de datos.
+D) No es posible realizar inyección de dependencias en NestJS.
+Answer: A
