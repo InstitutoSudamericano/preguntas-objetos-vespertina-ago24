@@ -1,0 +1,15 @@
+¿Qué factores tiene en cuenta la estrategia de despliegue Canary para su funcionamiento?
+A. El tamaño de los servidores y la cantidad de tráfico que reciben.
+B. El tiempo de la versión a desplegar y el comportamiento de los cambios.
+C. La ubicación geográfica de los usuarios y la velocidad de conexión.
+ANSWER: B
+¿Qué es importante considerar al elegir una estrategia de implementación según el texto?
+A. La cantidad de RAM disponible en los servidores.
+B. La disponibilidad de herramientas de monitoreo de código.
+C. Las conexiones de larga duración y la gestión de bases de datos.
+ANSWER: C
+¿Por qué es importante tener en cuenta las estrategias de despliegue mencionadas en el texto?
+A. Porque aseguran un despliegue sin errores en cualquier situación.
+B. Porque cada proyecto y entorno de infraestructura es único.
+C. Porque son las únicas estrategias disponibles para implementación.
+ANSWER: B

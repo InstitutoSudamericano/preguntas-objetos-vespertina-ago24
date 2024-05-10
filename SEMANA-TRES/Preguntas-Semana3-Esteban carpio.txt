@@ -1,0 +1,20 @@
+¿Cuál es el principal objetivo del mapeo objeto-relacional (ORM)?
+A. Facilitar la conversión de datos entre sistemas de tipos.
+B. Automatizar el proceso de conversión entre objetos y registros.
+C. Proporcionar un lenguaje propio para realizar consultas a la base de datos.
+ANSWER: B
+¿Cuál es una desventaja potencial del uso de ORM en aplicaciones?
+A. Mayor rapidez en el desarrollo.
+B. Ligera disminución en el rendimiento debido al proceso de traducción de consultas.
+C. Facilita la interacción entre el código de la aplicación y la base de datos relacional.
+ANSWER: B
+En el contexto del mapeo objeto-relacional, ¿qué función cumplen los patrones de diseño como el Repository y el Active Record?
+A. Organizar y estructurar el código de manera más eficiente.
+B. Automatizar el proceso de conversión entre objetos y registros.
+C. Proporcionar un lenguaje propio para realizar consultas a la base de datos.
+ANSWER: A
+
+
+
+
+

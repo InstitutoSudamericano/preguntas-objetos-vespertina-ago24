@@ -1,0 +1,15 @@
+¿Cuál es el propósito principal del concepto CRUD en el desarrollo de software y la gestión de bases de datos relacionales?
+A. Facilitar la creación y gestión de datos.
+B. Proporcionar una estructura coherente para manipular datos.
+C. Permitir a los usuarios realizar tareas básicas como crear, leer, actualizar y eliminar datos.
+ANSWER: C
+¿Cuál es una desventaja potencial del enfoque CRUD en el desarrollo de aplicaciones?
+A. Proporciona una base sólida para el desarrollo de aplicaciones.
+B. Puede ser demasiado simplista para aplicaciones complejas.
+C. Ayuda a minimizar los errores y garantiza la integridad de los datos.
+ANSWER: B
+¿Qué operaciones permite realizar la fase "Update" (actualizar) en un sistema que implementa el concepto CRUD?
+A. Crear un nuevo registro en la base de datos.
+B. Leer los datos existentes y mostrarlos al usuario.
+C. Actualizar los datos existentes en la base de datos.
+ANSWER: C
