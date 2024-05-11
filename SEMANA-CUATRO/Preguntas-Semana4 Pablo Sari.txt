@@ -1,0 +1,20 @@
+¿Por qué es importante implementar operaciones CRUD en una aplicación web?
+a. Facilita la interacción entre la aplicación y la base de datos al proporcionar un conjunto estándar de operaciones para crear, leer, actualizar y eliminar datos.
+b. Ayuda a mantener la consistencia y la integridad de los datos al estandarizar la forma en que se accede y se modifica la información en la base de datos.
+c. Mejora la experiencia del usuario al permitir una gestión eficiente de los datos, lo que facilita la navegación, la búsqueda y la modificación de la información.
+ANSWER: A
+Describe cada una de las operaciones CRUD en el contexto de una aplicación web.
+a. Crear (Create): Esta operación implica la creación de nuevos registros en la base de datos. En el contexto de una aplicación web, esto generalmente se logra mediante formularios o solicitudes HTTP que envían datos al servidor para su procesamiento y almacenamiento.
+b. Leer (Read): Esta operación implica la recuperación de datos de la base de datos. En una aplicación web, se utiliza para mostrar información al usuario final, ya sea mostrando listas de datos, detalles de un solo registro, o cualquier otra información necesaria.
+c. Actualizar (Update): Esta operación implica la modificación de registros existentes en la base de datos. En una aplicación web, se puede lograr mediante formularios de edición o solicitudes HTTP que envían datos actualizados al servidor para su procesamiento y almacenamiento.
+d. Eliminar (Delete): Esta operación implica la eliminación de registros de la base de datos. En una aplicación web, se utiliza para eliminar datos que ya no son necesarios o que son incorrectos.
+ANSWER: A
+¿Cuál es uno de los desafíos comunes al implementar operaciones CRUD en una aplicación web?
+a. La gestión de la seguridad y los permisos de acceso a los datos, para garantizar que solo los usuarios autorizados puedan realizar ciertas operaciones CRUD.
+b. La optimización del rendimiento, especialmente en aplicaciones con grandes cantidades de datos, para garantizar que las operaciones CRUD se realicen de manera eficiente y sin afectar el rendimiento general de la aplicación.
+c. La sincronización de los datos entre múltiples usuarios o dispositivos, especialmente en aplicaciones colaborativas o en tiempo real, para garantizar que los cambios realizados por un usuario se reflejen correctamente para otros usuarios.
+ANSWER: A
+
+
+
+
