@@ -1,0 +1,18 @@
+Pregunta 1: ¿Cuál de las siguientes es NO una herramienta común para implementar aplicaciones TypeScript? (Semana #5)
+(a) Node.js 
+(b) Webpack 
+(C) Ruby on Rails
+Respuesta: (C) Ruby on Rails
+
+Pregunta 2: ¿Qué es un archivo tsconfig.json en el contexto de la implementación de TypeScript?
+(a) Un archivo de configuración para el compilador TypeScript. 
+(b) Un archivo de configuración para el entorno de ejecución de Node.js. 
+(c) Un archivo de configuración para un servidor web. 
+Respuesta: (A) Un archivo de configuración para el compilador TypeScript.
+Pregunta 3: ¿Cuál de los siguientes es un método común para implementar una aplicación TypeScript en la nube?
+
+A. Heroku 
+B. AWS Elastic Beanstalk 
+C. Google Cloud Platform 
+D. Todas las anteriores
+Respuesta: (D) Todas las anteriores

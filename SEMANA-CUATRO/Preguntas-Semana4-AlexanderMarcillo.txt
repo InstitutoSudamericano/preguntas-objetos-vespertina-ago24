@@ -1,0 +1,18 @@
+Pregunta 1: ¿Cuál de los siguientes frameworks de TypeScript está diseñado principalmente para construir API RESTful e implementar operaciones CRUD? (Semana #4)
+A. Express 
+B. NestJS 
+C. Angular 
+ANSWER: (B) NestJS
+
+Pregunta 2: ¿Cuál es el propósito de la "D" en las operaciones CRUD?
+A. Eliminar (Delete) 
+B. Duplicar (Duplicate) 
+C. Descubrir (Discover) 
+D. Implementar (Deploy)
+ANSWER: (A) Eliminar (Delete)
+
+Pregunta 3: ¿Cuál de las siguientes bibliotecas de TypeScript se usa comúnmente para la validación de datos en aplicaciones CRUD?
+A. class-validator 
+B. lodash 
+C. express-validator 
+ANSWER: (A) class-validator
