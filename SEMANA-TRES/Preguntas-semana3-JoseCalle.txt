@@ -1,0 +1,20 @@
+¿Cuál de los siguientes frameworks es conocido por su enfoque "active record" en el mapeo objeto-relacional?
+A. Hibernate
+B. Django ORM
+C. Express.js
+
+ANSWER B
+
+¿Qué framework ORM es especialmente popular en el ecosistema de Ruby on Rails?
+A. SQLAlchemy
+B. Sequelize
+C. ActiveRecord
+
+ANSWER C
+
+¿Cuál de estos frameworks de ORM es principalmente utilizado en el entorno de desarrollo de Python?
+A. Eloquent
+B. Doctrine
+C. SQLAlchemy
+
+ANSWER C
