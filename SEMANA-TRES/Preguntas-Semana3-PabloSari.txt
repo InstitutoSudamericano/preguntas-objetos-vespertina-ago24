@@ -1,0 +1,15 @@
+¿Por qué es importante utilizar Object Relational Mapping (ORM) en el desarrollo de aplicaciones web?
+a. Proporciona una forma de mapear las relaciones entre objetos en código orientado a objetos y las tablas en una base de datos relacional, simplificando así el proceso de interacción con la base de datos.
+b. Facilita la integración de múltiples bases de datos en una aplicación, lo que permite un mejor rendimiento y escalabilidad.
+c. Ayuda a reducir la complejidad del código al proporcionar una capa de abstracción entre la lógica de negocio de la aplicación y la manipulación directa de la base de datos.
+ANSWER: A
+Describe el proceso de mapeo objeto-relacional en el contexto de ORM.
+a. El proceso de mapeo objeto-relacional implica asignar clases y propiedades de objetos en un lenguaje de programación a tablas y columnas en una base de datos relacional.
+b. Esto se logra utilizando configuraciones y anotaciones específicas proporcionadas por la biblioteca ORM que se está utilizando, lo que permite definir cómo se deben realizar las operaciones de consulta, inserción, actualización y eliminación en la base de datos.
+c. El ORM se encarga de traducir las consultas y operaciones realizadas en código de objetos a consultas SQL que la base de datos puede entender y ejecutar, y viceversa, traduciendo los resultados de la base de datos de nuevo a objetos que pueden ser utilizados en la lógica de la aplicación.
+ANSWER: A
+¿Cuál es uno de los beneficios clave de utilizar un ORM en una aplicación web?
+a. Facilita la portabilidad del código al permitir que la lógica de la aplicación sea independiente del sistema de gestión de bases de datos subyacente, lo que facilita la migración entre diferentes bases de datos o incluso entre tipos de bases de datos relacionales y no relacionales.
+b. Proporciona una mayor seguridad al evitar la exposición directa de consultas SQL en el código, lo que ayuda a prevenir vulnerabilidades como la inyección de SQL.
+c. Mejora el rendimiento de la aplicación al optimizar automáticamente las consultas SQL generadas y al proporcionar caché de consultas y resultados.
+ANSWER: A
