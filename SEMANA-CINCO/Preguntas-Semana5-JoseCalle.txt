@@ -1,0 +1,20 @@
+¿Qué herramienta es comúnmente utilizada para el deployment de aplicaciones web en servidores Linux?
+A. Docker
+B. Kubernetes
+C. SSH
+
+ANSWER C
+
+¿Qué tipo de servicio en la nube se utiliza comúnmente para el deployment de aplicaciones sin necesidad de gestionar la infraestructura subyacente?
+A. IaaS (Infraestructura como Servicio)
+B. PaaS (Plataforma como Servicio)
+C. SaaS (Software como Servicio)
+
+ANSWER B
+
+¿Cuál de las siguientes estrategias de deployment implica la implementación gradual de una nueva versión de la aplicación mientras se mantiene la versión anterior en producción?
+A. Deployment canario (Canary deployment)
+B. Deployment en línea (Rolling deployment)
+C. Deployment en paralelo (Parallel deployment)
+
+ANSWER A

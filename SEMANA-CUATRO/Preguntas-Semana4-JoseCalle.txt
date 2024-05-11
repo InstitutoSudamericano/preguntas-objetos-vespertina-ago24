@@ -1,0 +1,20 @@
+¿Cuál de las siguientes operaciones CRUD es responsable de agregar nuevos datos a una base de datos?
+A. Leer
+B. Crear
+C. Actualizar
+
+ANSWER B
+
+¿Qué operación CRUD se utiliza para recuperar información específica de una base de datos?
+A. Actualizar
+B. Eliminar
+C. Leer
+
+ANSWER C
+
+¿Cuál de las siguientes operaciones CRUD se utiliza para modificar los datos existentes en una base de datos?
+A. Eliminar
+B. Leer
+C. Actualizar
+
+ANSWER C
