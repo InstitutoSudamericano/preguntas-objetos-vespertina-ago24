@@ -1,0 +1,20 @@
+1. ¿Por qué NestJS ha ganado popularidad como marco de trabajo para el desarrollo del lado del servidor?
+   A. Por su enfoque modular y orientado a objetos, que facilita la organización y mantenimiento del código.
+   B. Por su compatibilidad exclusiva con JavaScript, lo que simplifica el proceso de desarrollo.
+   C. Por su integración nativa con bases de datos relacionales y NoSQL.
+   
+   ANSWER: A
+
+2. ¿Qué características clave ofrece NestJS para el desarrollo de aplicaciones backend?
+   A. Inyección de dependencias, modularidad y enrutamiento basado en controladores.
+   B. Renderizado del lado del servidor y manipulación de eventos en tiempo real.
+   C. Generación automática de API RESTful y autenticación integrada.
+   
+   ANSWER: A
+
+3. ¿Cómo se puede comparar NestJS con la construcción de una casa utilizando bloques de construcción modulares?
+   A. Ambos utilizan componentes modulares para crear una estructura coherente y funcional.
+   B. Ambos requieren un proceso de ensamblaje cuidadoso para garantizar la estabilidad y el rendimiento.
+   C. Ambos son herramientas esenciales en el desarrollo de aplicaciones web modernas.
+   
+   ANSWER: A

@@ -1,0 +1,20 @@
+1. ¿Por qué son importantes las operaciones CRUD en el tratamiento de información en bases de datos relacionales?
+   A. Para proporcionar una interfaz estándar para interactuar con los datos de manera eficiente.
+   B. Para garantizar la seguridad de los datos durante las transacciones.
+   C. Para optimizar el rendimiento de las consultas en la base de datos.
+   
+   ANSWER: A
+
+2. ¿Qué consideraciones deben tenerse en cuenta al implementar operaciones CRUD en una aplicación?
+   A. La eficiencia y seguridad de las operaciones.
+   B. La compatibilidad con diferentes sistemas de gestión de bases de datos.
+   C. La estandarización de los procesos de manipulación de datos.
+   
+   ANSWER: A
+
+3. ¿Cómo se puede comparar el conjunto de operaciones CRUD con las funciones básicas de un editor de texto?
+   A. Ambos permiten a los usuarios realizar acciones básicas sobre los datos de manera estructurada.
+   B. Ambos se utilizan para optimizar la visualización de la información en pantalla.
+   C. Ambos son herramientas esenciales en el desarrollo de aplicaciones web.
+   
+   ANSWER: A

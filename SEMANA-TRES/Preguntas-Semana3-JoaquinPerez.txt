@@ -1,0 +1,20 @@
+1. ¿Cuál es la importancia de seleccionar la estrategia de mapeo adecuada en ORM al desarrollar una aplicación?
+   A. Para garantizar un rendimiento óptimo de las operaciones de base de datos.
+   B. Para simplificar la comprensión del código por parte de otros desarrolladores.
+   C. Para adaptarse fácilmente a los cambios en el modelo de datos.
+   
+   ANSWER: A
+
+2. ¿Qué factores deberían tenerse en cuenta al evaluar diferentes estrategias de mapeo en ORM?
+   A. La complejidad y mantenibilidad del código.
+   B. La flexibilidad para adaptarse a cambios en el modelo de datos.
+   C. El impacto en el rendimiento de las operaciones de base de datos.
+   
+   ANSWER: C
+
+3. ¿Cómo se puede comparar el proceso de selección de una estrategia de mapeo en ORM con la planificación de un viaje?
+   A. Ambos implican considerar diferentes opciones basadas en necesidades específicas y condiciones variables.
+   B. Ambos requieren una evaluación cuidadosa de los riesgos y beneficios asociados con cada opción.
+   C. Ambos tienen como objetivo llegar de manera eficiente y segura a un destino deseado.
+   
+   ANSWER: A
