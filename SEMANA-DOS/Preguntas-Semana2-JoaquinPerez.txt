@@ -1,0 +1,20 @@
+1. ¿Cómo pueden los patrones de diseño en la integración de ORM mejorar la estructura y la mantenibilidad de las aplicaciones del lado del servidor?
+   A. Proporcionando soluciones probadas para problemas comunes en el diseño de software.
+   B. Facilitando la interacción entre la capa de presentación y la capa de acceso a datos.
+   C. Optimizando el rendimiento de las operaciones de base de datos.
+   
+   ANSWER: A
+
+2. ¿Qué desafíos únicos presenta la integración de ORM en la arquitectura del lado del servidor?
+   A. Gestión eficiente de transacciones.
+   B. Separación adecuada de preocupaciones.
+   C. Extensibilidad del modelo de datos.
+   
+   ANSWER: B
+
+3. ¿Cuál es la analogía adecuada para describir la aplicación de patrones de diseño en la integración de ORM?
+   A. Construcción de un puente.
+   B. Diseño de un jardín.
+   C. Construcción de una casa.
+   
+   ANSWER: C
