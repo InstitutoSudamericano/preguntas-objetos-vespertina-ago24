@@ -13,6 +13,7 @@ A. Organizar y estructurar el código de manera más eficiente.
 B. Automatizar el proceso de conversión entre objetos y registros.
 C. Proporcionar un lenguaje propio para realizar consultas a la base de datos.
 ANSWER: A
+Video: https://youtu.be/6-w3pF2k99s
 
 
 
