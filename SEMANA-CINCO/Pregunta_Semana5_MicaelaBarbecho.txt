@@ -13,6 +13,6 @@ a.	Algunas herramientas populares incluyen Jenkins, Travis CI, CircleCI, GitLab 
 b.	Automatizar la mayor parte del proceso posible, para reducir el riesgo de error humano.
 c.	Asegurar que el proceso esté integrado en el flujo de trabajo de desarrollo, para garantizar que todas las partes interesadas estén involucradas.
 Answer: A
--------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 ## Link del video:
 https://youtu.be/u5HkionBkVA?si=DOAULrRF5yu-lXwJ
