@@ -13,3 +13,5 @@ A. Porque aseguran un despliegue sin errores en cualquier situación.
 B. Porque cada proyecto y entorno de infraestructura es único.
 C. Porque son las únicas estrategias disponibles para implementación.
 ANSWER: B
+
+Video: https://youtu.be/6-w3pF2k99s
