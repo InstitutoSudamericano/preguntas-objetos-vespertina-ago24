@@ -1,0 +1,19 @@
+1.	¿Cuáles son algunas desventajas de usar ORM?
+a.	Rendimiento: En algunas situaciones, las consultas generadas por ORM pueden ser menos eficientes que las consultas SQL escritas a mano.
+b.	Extensas horas de trabajo. Algunas veces, los proyectos pueden requerir largas horas de trabajo, especialmente cuando se acercan las fechas de entrega.
+c.	Aprendizaje constante.
+Answer: A
+2.	¿Cuál es el propósito de ORM?
+a.	El propósito principal de ORM es eliminar la brecha entre la representación de datos en el código (objetos) y la representación de datos en la base de datos (tablas y filas). Permite a los desarrolladores trabajar con objetos en lugar de SQL directamente, lo que puede simplificar el desarrollo y reducir errores.
+b.	Un ORM es un modelo de programación que permite mapear las estructuras de una base de datos relacional (SQL Server, Oracle, MySQL, etc.).
+c.	Los objetos o entidades de la base de datos virtual creada en nuestro ORM podrán ser manipulados por medio de algún lenguaje de nuestro interés según el tipo de ORM.
+Answer: A
+3.	¿Cuáles son las principales ventajas de usar ORM?
+a.	Abstracción de la base de datos, portabilidad, productividad, mantenibilidad.
+b.	Conseguir excelentes oportunidades laborales. Hoy en día hay una gran demanda de programadores en todo el mundo.
+c.	Fomentar la creatividad.
+Answer: A
+
+-----------------------------------------------------------------------------------
+## Link del video:
+https://youtu.be/-0-R4FyOulg?si=B4RZX9ec8MWKKjaf

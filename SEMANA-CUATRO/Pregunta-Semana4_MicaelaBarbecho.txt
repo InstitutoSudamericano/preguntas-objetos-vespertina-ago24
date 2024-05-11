@@ -1,0 +1,16 @@
+1.	¿Qué significa CRUD?
+a. Es el proceso de crear un conjunto de instrucciones que le dicen a una computadora como realizar algún tipo de tarea.
+b. CRUD es un acrónimo que representa las cuatro operaciones básicas en la gestión de datos: Create (Crear), Read (Leer), Update (Actualizar) y Delete (Eliminar). Estas operaciones son fundamentales para cualquier sistema que maneje datos.
+c. Es el arte del proceso por el cual se limpia, codifica, traza y protege el código fuente de programas computacionales, en otras palabras, es indicarle a la computadora lo que tiene que hacer.
+Answer: B
+2.	¿Cómo se implementa CRUD en una aplicación?
+a.	Los frameworks CRUD facilitan el acceso al sistema de bases de datos y son utilizados tanto en el desarrollo como en el uso de aplicaciones. CRUD se implementa en una aplicación a través de la interacción con una base de datos. Por lo general, se utilizan consultas o sentencias específicas del lenguaje de programación y del sistema de gestión de bases de datos (DBMS) para realizar estas operaciones.
+b.	CRUD se implementa en una aplicación a través de la interacción con una base de datos. Por lo general, se utilizan consultas o sentencias específicas del lenguaje de programación y del sistema de gestión de bases de datos (DBMS) para realizar estas operaciones.
+Answer: B
+3. ¿Cuál es la operación "Delete" en CRUD?
+a. Es el arte del proceso por el cual se limpia, codifica, traza y protege el código fuente de programas computacionales, en otras palabras, es indicarle a la computadora lo que tiene que hacer.
+b. Los frameworks CRUD facilitan el acceso al sistema de bases de datos y son utilizados tanto en el desarrollo como en el uso de aplicaciones. CRUD se implementa en una aplicación a través de la interacción con una base de datos. Por lo general, se utilizan consultas o sentencias específicas del lenguaje de programación y del sistema de gestión de bases de datos (DBMS) para realizar estas operaciones.
+c.La operación "Delete" implica la eliminación de datos existentes de una base de datos. Esto implica eliminar registros completos de una tabla de base de datos o eliminar objetos de un sistema de almacenamiento de datos.
+-----------------------------------------------------------------------------------------
+## Link del video:
+https://youtu.be/rfW236QdLNU
