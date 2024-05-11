@@ -1,0 +1,17 @@
+¿Qué significa ORM en el contexto de desarrollo de software?
+a. Objeto Relational Model
+b. Object-Relational Mapping
+c. Object Refactoring Method
+Respuesta correcta: b
+
+¿Cuál es uno de los principales objetivos de utilizar ORM en una aplicación?
+a. Simplificar el proceso de compilación de código
+b. Optimizar la ejecución de consultas SQL
+c. Mapear las relaciones entre objetos y tablas de una base de datos
+Respuesta correcta: c
+
+¿Cuál de las siguientes tecnologías es un ejemplo común de un ORM en el ecosistema de desarrollo de software?
+a. HTML
+b. Hibernate
+c. HTTP
+Respuesta correcta: b

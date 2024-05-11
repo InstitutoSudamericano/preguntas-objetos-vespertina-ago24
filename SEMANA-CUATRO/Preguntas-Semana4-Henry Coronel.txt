@@ -1,0 +1,17 @@
+¿Qué operaciones básicas representa el acrónimo CRUD en el contexto de la gestión de bases de datos?
+a. Create, Retrieve, Update, Destroy
+b. Compute, Render, Utilize, Discard
+c. Copy, Resize, Utilize, Delete
+Respuesta correcta: a
+
+¿Cuál de las siguientes operaciones de CRUD se utiliza para crear nuevos registros en una base de datos?
+a. Retrieve
+b. Create
+c. Update
+Respuesta correcta: b
+
+¿Qué operación de CRUD se utiliza para eliminar registros existentes de una base de datos?
+a. Remove
+b. Delete
+c. Discard
+Respuesta correcta: b
