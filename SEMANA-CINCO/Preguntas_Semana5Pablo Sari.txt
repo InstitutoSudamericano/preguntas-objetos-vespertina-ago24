@@ -1,0 +1,19 @@
+¿Por qué es importante entender el proceso de implementación (deployment) en el desarrollo de software?
+a. El proceso de implementación es crucial para llevar el software desde el entorno de desarrollo hasta el entorno de producción, donde los usuarios finales pueden interactuar con él.
+b. Entender el deployment ayuda a garantizar que el software se pueda ejecutar de manera confiable y eficiente en el entorno de producción, minimizando problemas y tiempos de inactividad.
+c. Facilita la colaboración entre equipos de desarrollo y operaciones al proporcionar un proceso estandarizado para lanzar y actualizar software de manera consistente.
+ANSWER: A
+Describe los pasos típicos en el proceso de implementación de una aplicación web.
+a. Preparación: En esta etapa, se prepara la aplicación y el entorno de producción para la implementación. Esto puede incluir la compilación de código, la configuración de servidores y bases de datos, y la gestión de dependencias.
+b. Implementación: Durante esta fase, se lleva a cabo la transferencia de la aplicación desde el entorno de desarrollo al entorno de producción. Esto puede implicar la transferencia de archivos, la configuración de servidores web y la configuración de bases de datos.
+c. Pruebas: Después de la implementación, se realizan pruebas para garantizar que la aplicación funcione correctamente en el entorno de producción. Esto puede incluir pruebas de integración, pruebas de rendimiento y pruebas de usuario final.
+d. Monitoreo y Mantenimiento: Una vez que la aplicación está en producción, se monitorea su rendimiento y se realizan ajustes según sea necesario. Esto puede incluir la aplicación de parches de seguridad, la optimización del rendimiento y la resolución de problemas.
+ANSWER: A
+¿Cuáles son algunos de los métodos comunes para implementar una aplicación web?
+a. Despliegue manual: Implica la transferencia manual de archivos y la configuración de servidores por parte del equipo de desarrollo.
+b. Despliegue automatizado: Utiliza herramientas y scripts para automatizar el proceso de implementación, lo que puede incluir la compilación de código, las pruebas y la implementación en el entorno de producción.
+c. Plataformas de alojamiento en la nube: Utiliza servicios de alojamiento en la nube, como AWS, Azure o Google Cloud Platform, que ofrecen herramientas y servicios específicos para el despliegue de aplicaciones web.
+ANSWER: A
+
+
+
