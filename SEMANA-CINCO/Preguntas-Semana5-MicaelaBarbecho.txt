@@ -1,0 +1,18 @@
+1.	¿Cuáles son los principales métodos de deployment utilizados en el desarrollo de software?
+a.	Los métodos comunes de deployment incluyen el deployment manual, el deployment automatizado y el deployment continuo.
+b.	Extensas horas de trabajo. Algunas veces, los proyectos pueden requerir largas horas de trabajo, especialmente cuando se acercan las fechas de entrega.
+c.	Aprendizaje constante.
+Answer: A
+2.	¿Qué es el deployment automatizado y por qué es beneficioso?
+a.	El deployment automatizado utiliza herramientas y scripts para implementar la aplicación de manera eficiente y consistente en diferentes entornos. Esto reduce los errores, acelera el proceso y permite una implementación más frecuente y confiable.
+b.	CRUD se implementa en una aplicación a través de la interacción con una base de datos. Por lo general, se utilizan consultas o sentencias específicas del lenguaje de programación y del sistema de gestión de bases de datos (DBMS) para realizar estas operaciones.
+c.	Rendimiento: En algunas situaciones, las consultas generadas por ORM pueden ser menos eficientes que las consultas SQL escritas a mano.
+Answer: A
+3.	¿Cuáles son algunas herramientas populares utilizadas para el deployment automatizado?
+a.	Algunas herramientas populares incluyen Jenkins, Travis CI, CircleCI, GitLab CI/CD, Docker, Kubernetes, y muchas más, dependiendo de los requisitos específicos del proyecto.
+b.	Automatizar la mayor parte del proceso posible, para reducir el riesgo de error humano.
+c.	Asegurar que el proceso esté integrado en el flujo de trabajo de desarrollo, para garantizar que todas las partes interesadas estén involucradas.
+Answer: A
+-------------------------------------------------------------------------
+## Link del video:
+https://youtu.be/u5HkionBkVA?si=DOAULrRF5yu-lXwJ
