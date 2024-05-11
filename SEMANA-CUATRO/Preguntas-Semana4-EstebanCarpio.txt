@@ -13,3 +13,5 @@ A. Crear un nuevo registro en la base de datos.
 B. Leer los datos existentes y mostrarlos al usuario.
 C. Actualizar los datos existentes en la base de datos.
 ANSWER: C
+
+video: https://youtu.be/6-w3pF2k99s
