@@ -1,0 +1,17 @@
+Pregunta 1: ¿Cuál de las siguientes NO es una ventaja principal de usar un ORM en aplicaciones TypeScript? (Semana #3)
+A. Mejorar el mantenimiento y la legibilidad del código 
+B. Reducir el tiempo y el esfuerzo de desarrollo 
+C. Manipulación directa de tablas y consultas de bases de datos
+ANSWER: (C) Manipulación directa de tablas y consultas de bases de datos
+
+Pregunta 2: ¿Cuál de los siguientes ORM de TypeScript es conocido por su simplicidad y rendimiento?
+A. TypeORM 
+B. MikroORM 
+C. Typegoose 
+ANSWER: (B) MikroORM
+
+Pregunta 3: ¿Cuál de los siguientes ORM de TypeScript proporciona un potente sistema de migración para gestionar los cambios en el esquema de la base de datos?
+A. TypeORM 
+B. MikroORM 
+C. Typegoose 
+ANSWER: (A) TypeORM
