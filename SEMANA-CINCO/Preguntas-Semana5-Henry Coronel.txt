@@ -1,0 +1,17 @@
+¿Qué significa "deployment" en el contexto del desarrollo de software?
+a. El proceso de escribir código fuente.
+b. La etapa de pruebas de software antes de su lanzamiento.
+c. La implementación de una aplicación en un entorno operativo.
+Respuesta correcta: c
+
+¿Cuál es uno de los principales objetivos del deployment de software?
+a. Realizar pruebas de seguridad exhaustivas.
+b. Garantizar que el software sea compatible con múltiples navegadores.
+c. Poner en funcionamiento una aplicación de manera efectiva y segura.
+Respuesta correcta: c
+
+¿Cuál de las siguientes opciones es una herramienta comúnmente utilizada para facilitar el deployment de aplicaciones?
+a. Docker
+b. Python
+c. Git
+Respuesta correcta: a
