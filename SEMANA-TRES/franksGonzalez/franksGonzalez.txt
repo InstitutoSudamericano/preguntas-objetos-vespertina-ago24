@@ -1,0 +1,23 @@
+BANCO DE PREGUNTAS ACERCA "ORM":
+
+¿Qué significa ORM en el contexto de programación de software?[# DE LA SEMANA: 3 ]
+
+A. Objetos de Relaciones Múltiples
+B. Mapeo Objeto-Relacional
+C. Orientación a Relaciones Múltiples
+ANSWER:  B
+
+¿Cuál es uno de los principales objetivos de utilizar ORM en el desarrollo de aplicaciones?
+
+A. Minimizar la complejidad del código fuente
+B. Mapear objetos de programación a tablas de bases de datos
+C. Facilitar la comunicación entre múltiples servidores 
+ANSWER:  B
+
+¿Cuál es un ejemplo de un framework ORM popular en el ecosistema de Python?
+
+A. Hibernate
+B. Entity 
+C. Django 
+ANSWER:  C
+
