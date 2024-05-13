@@ -1,0 +1,21 @@
+BANCO DE PREGUNTAS ACERCA "CRUD":
+
+En una aplicación web, ¿cuál de las siguientes operaciones del CRUD se realiza comúnmente al enviar un formulario de registro?[# DE LA SEMANA: 4 ]
+
+A. Create 
+B. Update
+C. Delete
+ANSWER:  A
+
+¿Qué operación del CRUD se utiliza para obtener información detallada de un producto en una tienda en línea?
+A. Read 
+B. Create
+C. Update
+ANSWER:  A
+
+En un sistema de gestión de inventario, ¿qué operación del CRUD se realiza al cambiar el precio de un producto existente?
+A. Delete
+B. Update
+C. Read
+ANSWER:  B
+
