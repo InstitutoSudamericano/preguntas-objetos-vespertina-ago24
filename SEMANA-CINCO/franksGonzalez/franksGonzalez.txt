@@ -1,0 +1,21 @@
+BANCO DE PREGUNTAS ACERCA "deployment"
+
+¿Qué tipo de métricas clave se supervisan durante el monitoreo post-despliegue de una aplicación NestJS?[# DE LA SEMANA: 5 ]
+
+A. Uso de combustible
+B. Tiempo de respuesta de las solicitudes HTTP
+C. Velocidad máxima del servidor
+ANSWER:  B
+
+¿Cuál es el propósito principal del monitoreo post-despliegue en una aplicación NestJS?
+A. Detectar errores de compilación
+B. Optimizar el código fuente
+C. Mejorar el rendimiento y la estabilidad
+ANSWER:  C
+
+¿Qué herramienta se utiliza comúnmente para configurar alertas y notificaciones durante el monitoreo post-despliegue?
+A. Google Maps
+B. Grafana
+C. Microsoft Word
+ANSWER:  B
+
