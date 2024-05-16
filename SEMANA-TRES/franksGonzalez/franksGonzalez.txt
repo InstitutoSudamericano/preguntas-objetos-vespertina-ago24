@@ -21,3 +21,4 @@ B. Entity
 C. Django 
 ANSWER:  C
 
+LINK VIDEO EXPLICATIVO: https://youtu.be/9qCJQAC7OrY
