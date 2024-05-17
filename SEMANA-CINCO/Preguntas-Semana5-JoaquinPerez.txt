@@ -1,0 +1,31 @@
+¿Cuál es el principal beneficio del despliegue continuo en el desarrollo de software ágil?
+
+A. ¿Reduce los costos de desarrollo?
+
+B. ¿Facilita la colaboración entre equipos?
+
+C. ¿Minimiza el tiempo entre la finalización del desarrollo y la disponibilidad del software para los usuarios?
+
+ANSWER: C
+
+
+¿Cuál es uno de los desafíos más significativos al implementar despliegue continuo en una organización?
+
+A. ¿El alto costo inicial de implementación?
+
+B. ¿La resistencia cultural al cambio dentro de la organización?
+
+C. ¿La necesidad de contratar más desarrolladores? 
+
+ANSWER: B
+
+
+¿Cómo contribuye el despliegue continuo a la mejora de la calidad del software?
+
+A. ¿Permitiendo liberaciones más grandes y menos frecuentes?
+
+B. ¿Automatizando las pruebas y el proceso de liberación para detectar y corregir errores rápidamente?
+
+C. ¿Evitando la necesidad de retroalimentación temprana de los usuarios? 
+
+ANSWER: B
