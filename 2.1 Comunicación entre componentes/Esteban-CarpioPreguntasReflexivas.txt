@@ -1,25 +1,31 @@
-    ¿Cuál es la respuesta correcta a esta pregunta?
+    1.- ¿Qué método se utiliza para pasar datos del componente padre al hijo en Angular?
 
-    A. ¿Se utiliza @ViewChild() para pasar datos del padre al hijo?
-    B. ¿Se utiliza @Output() para que el hijo emita eventos al padre?
-    C. ¿Se utiliza @Input() para que el hijo emita eventos al padre?
+    A. @Input()
 
-    ANSWER: B
+    B. @ViewChild()
 
-    ¿Cuál es la respuesta correcta a esta pregunta?
-
-    A. ¿Es necesario utilizar ngAfterViewInit cuando se usa @Input()?
-    B. ¿Es necesario utilizar ngAfterViewInit cuando se usa @ViewChild()?
-    C. ¿Es necesario utilizar ngAfterViewInit cuando se usa @Output()?
-
-    ANSWER: B
-
-    ¿Cuál es la respuesta correcta a esta pregunta?
-
-    A. ¿@Input() permite la configuración inicial del hijo por el padre?
-    B. ¿@ViewChild() permite notificar eventos del hijo al padre?
-    C. ¿@Output() permite el control directo del padre sobre el hijo?
+    C. @Output()
 
     ANSWER: A
+
+    2.- ¿Cuál es el propósito de @ViewChild() en Angular?
+
+    A. Para pasar datos del componente padre al hijo.
+
+    B. Para obtener una referencia al componente hijo en el componente padre.
+
+    C. Para emitir eventos desde el componente hijo al padre.
+
+    ANSWER: B
+
+    3.- ¿Qué se utiliza en Angular para que un componente hijo pueda enviar datos o eventos al componente padre?
+
+    A. @Input()
+
+    B. @ViewChild()
+
+    C. @Output()
+
+    ANSWER: C
 
 LINK VIDEO:
