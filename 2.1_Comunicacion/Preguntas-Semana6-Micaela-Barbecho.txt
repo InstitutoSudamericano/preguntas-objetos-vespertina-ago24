@@ -1,0 +1,17 @@
+1.	¿Cuál es el propósito de la comunicación entre componentes padre e hijo?
+a.	La comunicación entre componentes padre e hijo permite transferir datos, eventos y comportamientos entre elementos de la interfaz de usuario, lo que facilita la construcción de aplicaciones dinámicas e interactivas.
+b.	Puedes pasarles instrucciones (propiedades) sobre cómo configurar la música, qué alimentos servir o cuándo cambiar las luces.
+c.	Los componentes hijos pueden informarte (a través de eventos) cuando necesiten algo específico, como más música, más comida o una pausa para descansar.
+Answer: A
+2.	¿Cuál es la diferencia entre la comunicación unidireccional y bidireccional entre componentes padre e hijo?
+a.  La comunicación entre componentes padre e hijo es un concepto fundamental en el desarrollo de aplicaciones de interfaz de usuario.
+b.  En la comunicación unidireccional, los datos fluyen únicamente desde el componente padre hacia el componente hijo, mientras que en la comunicación bidireccional, los datos pueden fluir en ambas direcciones, es decir, desde el padre hacia el hijo y viceversa.	
+c.	Los servicios pueden actuar como un intermediario centralizado donde los componentes pueden leer y escribir datos compartidos. Esto es especialmente útil cuando la comunicación entre componentes no es directa debido a la estructura del árbol de componentes.
+Answer: B
+3.	¿Qué ventajas ofrece el uso de eventos personalizados en la comunicación entre componentes padre e hijo en comparación con métodos más directos como las propiedades?
+a.	Los eventos personalizados ofrecen una mayor flexibilidad y extensibilidad en la comunicación entre componentes, ya que permiten definir y manejar eventos específicos que pueden ser consumidos por múltiples componentes, facilitando la reutilización y la modularidad del código.
+b.	Las referencias se utilizan cuando se necesita acceder directamente a una instancia específica de un componente hijo, por ejemplo, para llamar a sus métodos o acceder a sus propiedades internas. Se deben utilizar con precaución para no comprometer la encapsulación de los componentes.
+c.	Un flujo de datos bien definido ayuda a evitar problemas de rendimiento, ciclos de actualización infinitos y errores de lógica.
+Answer: A
+------------------------------------------------------------------------------------
+LINK VIDEO: https://youtu.be/BEZgCeOzOYU?si=k6zkYBa_rlcVmfS6
