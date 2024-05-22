@@ -1,0 +1,37 @@
+Pregunta 1
+¿Cuál es la respuesta correcta a esta pregunta?[Conceptos básicos de microservicios]
+
+A. ¿Permiten los microservicios el despliegue independiente de componentes?
+
+B. ¿Requieren los microservicios que todos los servicios se desarrollen con la misma tecnología?
+
+C. ¿Hacen que una falla en un microservicio provoque la falla de toda la aplicación?
+
+ANSWER: A
+
+Pregunta 2
+¿Cuál es la respuesta correcta a esta pregunta?[Características clave de microservicios]
+
+A. ¿Es la independencia tecnológica una característica clave de los microservicios?
+
+B. ¿Dependen los microservicios de una base de datos centralizada para todas sus operaciones?
+
+C. ¿Implican los microservicios un despliegue centralizado de toda la aplicación?
+
+ANSWER: A
+
+Pregunta 3
+¿Cuál es la respuesta correcta a esta pregunta?[Analogía de microservicios]
+
+A. ¿Es la analogía correcta que cada microservicio es como una gran oficina central que maneja todos los paquetes?
+
+B. ¿Es la analogía correcta que cada microservicio es como una oficina local especializada en una función específica?
+
+C. ¿Es la analogía correcta que cada microservicio es como un solo paquete en una oficina centralizada?
+
+ANSWER: B
+
+
+
+
+
