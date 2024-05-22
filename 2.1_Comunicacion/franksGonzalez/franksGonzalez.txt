@@ -1,0 +1,21 @@
+BANCO DE PREGUNTAS ACERCA "Directivas Estructurales en Angular"
+
+¿Qué directiva estructural se utiliza para iterar sobre una lista de elementos en Angular?[TEMA: 2.1_Comunicación]
+A. *ngIf
+B. *ngSwitch
+C. *ngFor 
+ANSWER:  C
+
+¿Cuál es el propósito de la directiva *ngIf en Angular?
+A. Iterar sobre una lista de elementos.
+B. Mostrar u ocultar elementos del DOM según una condición booleana. 
+C. Alternar entre diferentes bloques de contenido.
+ANSWER:  B
+
+¿Qué se utiliza para alternar entre diferentes bloques de contenido en Angular?
+A. *ngIf
+B. *ngFor
+C. *ngSwitch 
+ANSWER:  C
+
+
