@@ -1,0 +1,37 @@
+Pregunta 1
+
+¿Cuál de los siguientes hooks se llama justo antes de que Angular destruya el componente?**
+
+A. ngOnInit
+
+B. ngOnDestroy
+
+C. ngAfterViewInit
+
+ANSWER: B
+
+Pregunta 2
+
+¿Qué hook se llama una vez después de que Angular ha inicializado las vistas del componente y sus vistas hijas?
+
+A. ngAfterContentInit
+
+B. ngAfterViewChecked
+
+C. ngAfterViewInit
+
+ANSWER: C
+
+Pregunta 3
+
+¿Qué hook se utiliza para ejecutar lógica personalizada de detección de cambios durante cada ciclo de detección de cambios?
+
+A. ngDoCheck
+
+B. ngAfterContentChecked
+
+C. ngOnChanges
+
+ANSWER: A
+
+Link de YouTube: https://youtu.be/Z1qBH7G6HH8
