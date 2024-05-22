@@ -1,0 +1,25 @@
+
+¿Cuál es el propósito principal de la comunicación entre componentes padre e hijo en el desarrollo de aplicaciones de interfaz de usuario?
+a. Facilitar la construcción de aplicaciones estáticas.
+b. Permitir que los elementos de la interfaz de usuario se comuniquen entre sí de manera efectiva.
+c. Mejorar la seguridad de la aplicación.
+
+ ANSWER: b
+¿Cuáles son los métodos comunes para la comunicación entre componentes padre e hijo?
+a. Pasada de propiedades (props), transmisión de datos y manipulación de estado.
+b. Pasada de propiedades (props), emisión de eventos y propagación de eventos.
+c. Pasada de propiedades (props), almacenamiento en caché y modificación del DOM.
+
+ ANSWER: b
+¿En qué consiste la pasada de propiedades (props) en la comunicación entre componentes?
+a. El componente padre pasa datos al componente hijo a través de atributos o propiedades personalizadas.
+b. El componente hijo pasa datos al componente padre a través de métodos especiales.
+c. Los componentes comparten datos directamente a través de variables globales.
+
+ ANSWER: a
+
+
+ link del video
+
+ https://www.youtube.com/watch?v=BmYVcyL-6Bw
+
