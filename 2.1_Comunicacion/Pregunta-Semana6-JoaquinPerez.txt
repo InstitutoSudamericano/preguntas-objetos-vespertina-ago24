@@ -1,0 +1,31 @@
+1. ¿Cuál es la mejor manera de garantizar una comunicación efectiva entre componentes en una aplicación?
+
+A. Utilizar exclusivamente la comunicación directa entre componentes.
+
+B. Dependiendo únicamente de la comunicación a través de eventos para todas las interacciones entre componentes.
+
+C. Evaluar las necesidades específicas de la aplicación y elegir el método de comunicación más adecuado para cada situación.
+
+ANSWER: C
+
+
+2. ¿Cómo puede afectar una comunicación deficiente entre componentes al desarrollo y mantenimiento de una aplicación?
+
+A. No afecta en absoluto, ya que los componentes son independientes entre sí.
+
+B. Puede llevar a una mayor complejidad del código y dificultar el mantenimiento y la escalabilidad de la aplicación.
+
+C. La comunicación entre componentes no tiene impacto en el desarrollo de la aplicación.
+
+ANSWER: B
+
+
+3. ¿Por qué es importante mantener la consistencia en la forma en que se maneja la comunicación entre componentes en una aplicación?
+
+A. No es importante, ya que los diferentes métodos de comunicación pueden ser intercambiables.
+
+B. Facilita el mantenimiento y la comprensión del código, promoviendo buenas prácticas de desarrollo.
+
+C. La consistencia en la comunicación entre componentes puede generar problemas de rendimiento.
+
+ANSWER: B
