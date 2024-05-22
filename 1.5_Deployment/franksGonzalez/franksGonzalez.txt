@@ -19,3 +19,4 @@ B. Grafana
 C. Microsoft Word
 ANSWER:  B
 
+LINK VIDEO EXPLICATIVO: https://youtu.be/9qCJQAC7OrY

@@ -20,3 +20,5 @@ B. La integración nativa de herramientas de análisis de datos.
 C. La inclusión de un ORM (Mapeo Objeto-Relacional) que facilita la interacción con bases de datos relacionales.
 
 ANSWER:  C
+
+LINK VIDEO EXPLICATIVO: https://youtu.be/9qCJQAC7OrY

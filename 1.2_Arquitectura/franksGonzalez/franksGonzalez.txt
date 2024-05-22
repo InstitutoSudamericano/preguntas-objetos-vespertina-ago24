@@ -18,3 +18,5 @@ A. A través de correos electrónicos.
 B. Importando y exportando componentes necesarios. 
 C. Utilizando un sistema de mensajería interno en la aplicación.
 ANSWER:  B
+
+LINK VIDEO EXPLICATIVO: https://youtu.be/9qCJQAC7OrY
