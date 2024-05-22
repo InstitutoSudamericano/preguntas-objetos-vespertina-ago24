@@ -1,0 +1,25 @@
+    ¿Cuál es la respuesta correcta a esta pregunta?
+
+    A. ¿Se utiliza @ViewChild() para pasar datos del padre al hijo?
+    B. ¿Se utiliza @Output() para que el hijo emita eventos al padre?
+    C. ¿Se utiliza @Input() para que el hijo emita eventos al padre?
+
+    ANSWER: B
+
+    ¿Cuál es la respuesta correcta a esta pregunta?
+
+    A. ¿Es necesario utilizar ngAfterViewInit cuando se usa @Input()?
+    B. ¿Es necesario utilizar ngAfterViewInit cuando se usa @ViewChild()?
+    C. ¿Es necesario utilizar ngAfterViewInit cuando se usa @Output()?
+
+    ANSWER: B
+
+    ¿Cuál es la respuesta correcta a esta pregunta?
+
+    A. ¿@Input() permite la configuración inicial del hijo por el padre?
+    B. ¿@ViewChild() permite notificar eventos del hijo al padre?
+    C. ¿@Output() permite el control directo del padre sobre el hijo?
+
+    ANSWER: A
+
+LINK VIDEO:
