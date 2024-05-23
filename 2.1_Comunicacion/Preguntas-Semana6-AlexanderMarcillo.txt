@@ -1,0 +1,22 @@
+1. ¿Qué patrón de diseño se utiliza para compartir datos entre componentes no relacionados en Angular?
+
+A Injectable
+B Servicios
+C Providers
+
+ANSWER: B
+
+2. ¿Cuál de las siguientes opciones NO es una forma de comunicación entre componentes en Angular?
+
+A Enrutamiento
+B Data binding
+C Propiedades compartidas
+
+ANSWER: A
+
+3. ¿Qué son las directivas de ciclo de vida en Angular y cómo se utilizan en la comunicación entre componentes?
+
+A Directivas que se ejecutan en diferentes etapas del ciclo de vida de un componente
+B Una forma de compartir datos entre componentes
+C Una forma de manejar eventos entre componentes
+ANSWER: A
